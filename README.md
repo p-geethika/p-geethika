@@ -52,13 +52,6 @@
 
 ---
 
-### 🎨 Projects
-
-- **Project 1:** Description of your project with a [link to the repository](#)
-- **Project 2:** Description of your project with a [link to the repository](#)
-
----
-
 ### 🤝 Collaboration
 
 I’m looking to collaborate on various coding competitions and interesting AI/ML projects. Feel free to reach out!
