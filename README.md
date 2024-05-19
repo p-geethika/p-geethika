@@ -29,8 +29,10 @@
 
 ### 🏆 Achievements
 
-- **Mentor:** AI domain in Cognizance Club, Amrita University
-- **Active Participant:** Various coding competitions
+- **Winner:** Phobos Ideathon, Amrita University
+- **Runner ups:** Innovative Ideathon, Amrita University
+- **Accolades:** Hackfest'2k23 and Smart Digital Hackathon
+- **Active Participant:** Various coding competitions and hackathons
 
 ---
 
